@@ -3,5 +3,5 @@
 main()
 {
 	print();
-	print();
+	print("develop");
 }
