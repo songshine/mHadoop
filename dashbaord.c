@@ -1,0 +1,6 @@
+#include<io>
+
+function()
+{
+	// TODO
+}
